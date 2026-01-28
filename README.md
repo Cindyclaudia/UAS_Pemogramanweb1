@@ -29,11 +29,13 @@ Desain: Konsep Glassmorphism dengan perpaduan gradien warna pastel dan efek blur
 
 4. Keunggulan Sistem
 Keamanan Terpusat: Menggunakan fungsi cek_login() yang terpusat di file konfigurasi untuk mencegah akses ilegal melalui URL.
+Efisiensi Input: Penggunaan modal pop-up untuk input data di halaman Dashboard mengurangi beban loading halaman dan mempercepat kerja admin.
+
+
 <img width="614" height="588" alt="Screenshot 2026-01-29 015908" src="https://github.com/user-attachments/assets/e1c0bdd3-a18a-4f0a-881a-d003378f6b58" />
 <img width="1917" height="1043" alt="Screenshot 2026-01-29 015855" src="https://github.com/user-attachments/assets/c73587cb-3e7e-4ffa-bf68-b250d95ab909" />
 <img width="1919" height="1041" alt="Screenshot 2026-01-29 015838" src="https://github.com/user-attachments/assets/d7f64bff-0125-48e4-8b01-8752c53d6acc" />
 <img width="1919" height="1013" alt="Screenshot 2026-01-29 015926" src="https://github.com/user-attachments/assets/a4638ccc-b0ce-4f84-b240-ebf7f3e34a10" />
 <img width="1919" height="1041" alt="Screenshot 2026-01-29 015918" src="https://github.com/user-attachments/assets/53fc8b80-2248-4ed8-8eea-70d4184862a5" />
 
-Efisiensi Input: Penggunaan modal pop-up untuk input data di halaman Dashboard mengurangi beban loading halaman dan mempercepat kerja admin.
 
