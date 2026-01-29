@@ -31,11 +31,14 @@ Desain: Konsep Glassmorphism dengan perpaduan gradien warna pastel dan efek blur
 Keamanan Terpusat: Menggunakan fungsi cek_login() yang terpusat di file konfigurasi untuk mencegah akses ilegal melalui URL.
 Efisiensi Input: Penggunaan modal pop-up untuk input data di halaman Dashboard mengurangi beban loading halaman dan mempercepat kerja admin.
 
+Link Website: https://bukudatapro.ct.ws
+
 
 <img width="1919" height="1041" alt="Screenshot 2026-01-29 015838" src="https://github.com/user-attachments/assets/7bed2466-538b-4bc4-9b51-1ee4e0b4dde9" />
 <img width="1917" height="1043" alt="Screenshot 2026-01-29 015855" src="https://github.com/user-attachments/assets/f7285ff5-ca18-4162-9356-661d9f4853c4" />
 <img width="614" height="588" alt="Screenshot 2026-01-29 015908" src="https://github.com/user-attachments/assets/ce7115d2-70e5-402e-a612-b7091670afc5" />
 <img width="1919" height="1041" alt="Screenshot 2026-01-29 015918" src="https://github.com/user-attachments/assets/706b1cde-7814-48d3-a838-a518a27445bf" />
 <img width="1919" height="1013" alt="Screenshot 2026-01-29 015926" src="https://github.com/user-attachments/assets/c92af9c3-414b-401e-98c7-2c5e43ffcf31" />
+
 
 
